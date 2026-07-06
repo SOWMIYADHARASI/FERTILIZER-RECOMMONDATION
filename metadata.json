@@ -1,0 +1,6 @@
+{
+  "name": "Fertilizer Recommendation Agent",
+  "description": "An AI-powered agricultural helper that recommends optimal soil fertilizers, features a multilingual Gemini chatbot, and provides soil analysis and a farm management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
